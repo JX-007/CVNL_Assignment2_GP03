@@ -45,11 +45,7 @@ RNN Model
 ### Project Structure
 - data/                -- (contain datasets)
 - models/              -- (contains model architecture)
-- training/ 
-- evaluation/ 
-- utils/ 
-- main.py 
-- requirements.txt
+- AI_Airport_Prototype.ipynb
 - README.md
 ---
 ## Dataset Source
