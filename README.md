@@ -53,6 +53,7 @@ RNN Model
 - ATIS (Air Travel Information System) Dataset: https://huggingface.co/datasets/DeepPavlov/snips
 
 ## Technologies Used
+- Google Colab (Notebook)
 - Python
 - PyTorch
 - Numpy
