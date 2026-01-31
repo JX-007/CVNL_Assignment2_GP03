@@ -1,0 +1,5 @@
+fgvc-aircraft-2013b/
+
+pycache__/
+__pycache__/
+*.pyc
