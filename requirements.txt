@@ -1,0 +1,9 @@
+# Streamlit requirements
+streamlit==1.31.0
+torch==2.1.0
+torchvision==0.16.0
+numpy==1.24.3
+Pillow==10.2.0
+
+# Note: If you have PyTorch 2.6+, the app will still work
+# The code has been updated to handle the weights_only parameter
